@@ -3,7 +3,7 @@
   "newRev":1,
   "fileCount":1,
   "message":"Your game has been updated. Please reset the game to play the most up to date build of training mod - Monte",
-  "paths":["menu/"],
-  "files":["menu_backgrounds.ssf"],
-  "urls":["https://amonteproduction.github.io/rev1/menu_backgrounds.ssf"]
+  "paths":["misc/", "menu/", "tutorial/"],
+  "files":["misc.ssf", "menu_backgrounds.ssf", "tutorials.json"],
+  "urls":["https://amonteproduction.github.io/rev1/misc.ssf", "https://amonteproduction.github.io/rev1/menu_backgrounds.ssf", "https://amonteproduction.github.io/rev1/tutorials.json"]
 }
