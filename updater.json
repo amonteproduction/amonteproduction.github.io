@@ -5,7 +5,7 @@
   "songlink":"https://amonteproduction.github.io/dailysong.mp3",
   "songid":"Sentry (ft. MIKE) - Earl Sweatshirt",
   "message":"Your game has been updated. Please reset the game to play the most up to date build of training mod - Monte",
-  "dailyannouncement":"Happy training mod release day! Let me know if there's any bugs, reach me as @ssf2monte on twitter",
+  "dailyannouncement":"Happy training mod release day! Let me know if there's any bugs, reach me at @ssf2monte on twitter",
   "mainpaths":["data/","data/","data/", "/"],
   "paths":["misc/", "menu/", "tutorial/", "/"],
   "files":["misc.ssf", "menu_backgrounds.ssf", "tutorials.json", "SSF2.swf"],
