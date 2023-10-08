@@ -1,13 +1,14 @@
 {
-  "targetRev":0,
-  "newRev":1,
+  "targetRev":1,
+  "newRev":2,
   "songbool":true,
   "songlink":"https://amonteproduction.github.io/dailysong.mp3",
   "songid":"",
-  "message":"Your game has been updated. Please restart your game to play the most up to date build of training mod - Monte",
-  "dailyannouncement":"Let me know if there's any bugs, reach me at @montessf2 on discord! Newest patch fixed some online errors and updated 3v3",
+  "message":"Your game updated. Please restart. This hotfix fixes online mode softlocking issues - Monte",
+  "dailyannouncement":"New hotfix is live! Let me know if there's any bugs, reach me at @montessf2 on discord!",
   "mainpaths":["/"],
   "paths":["/"],
   "files":["SSF2.swf"],
+  "prevUpdate":"https://amonteproduction.github.io/rev0to2.json",
   "urls":["https://amonteproduction.github.io/rev1/SSF2.swf"]
 }
