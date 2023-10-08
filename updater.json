@@ -1,13 +1,13 @@
 {
   "targetRev":-1,
-  "newRev":0,
+  "newRev":1,
   "songbool":true,
   "songlink":"https://amonteproduction.github.io/dailysong.mp3",
   "songid":"",
-  "message":"Your game has been updated. Please reset the game to play the most up to date build of training mod - Monte",
+  "message":"Your game has been updated. Please restart your game to play the most up to date build of training mod - Monte",
   "dailyannouncement":"Let me know if there's any bugs, reach me at @montessf2 on discord! Enjoy the mod, be sure to post your clips in FFC and on Twitter :)",
-  "mainpaths":["data/","data/","data/", "/"],
-  "paths":["misc/", "menu/", "tutorial/", "/"],
-  "files":["misc.ssf", "menu_backgrounds.ssf", "tutorials.json", "SSF2.swf"],
-  "urls":["https://amonteproduction.github.io/rev1/misc.ssf", "https://amonteproduction.github.io/rev1/menu_backgrounds.ssf", "https://amonteproduction.github.io/rev1/tutorials.json", "https://amonteproduction.github.io/rev1/SSF2.swf"]
+  "mainpaths":["/"],
+  "paths":["/"],
+  "files":["SSF2.swf"],
+  "urls":["https://amonteproduction.github.io/rev1/SSF2.swf"]
 }
