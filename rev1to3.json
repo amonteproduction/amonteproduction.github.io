@@ -1,0 +1,14 @@
+{
+  "targetRev":1,
+  "newRev":3,
+  "songbool":true,
+  "songlink":"https://amonteproduction.github.io/dailysong.mp3",
+  "songid":"Tekken 4 OST - Authentic Sky [drum edit] - youtube/whoamibutwhoareyou",
+  "message":"Your game updated. Please restart. Sorry, one more hotfix LOL - Monte",
+  "dailyannouncement":"You are now on the latest build! Let me know if there's any bugs, reach me at @montessf2 on discord!",
+  "mainpaths":["/"],
+  "paths":["/"],
+  "files":["SSF2.swf"],
+  "prevUpdate":"https://amonteproduction.github.io/rev0to2.json",
+  "urls":["https://amonteproduction.github.io/rev1/SSF2.swf"]
+}
