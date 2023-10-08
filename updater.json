@@ -1,11 +1,11 @@
 {
-  "targetRev":-1,
+  "targetRev":0,
   "newRev":1,
   "songbool":true,
   "songlink":"https://amonteproduction.github.io/dailysong.mp3",
   "songid":"",
   "message":"Your game has been updated. Please restart your game to play the most up to date build of training mod - Monte",
-  "dailyannouncement":"Let me know if there's any bugs, reach me at @montessf2 on discord! Enjoy the mod, be sure to post your clips in FFC and on Twitter :)",
+  "dailyannouncement":"Let me know if there's any bugs, reach me at @montessf2 on discord! Newest patch fixed some online errors and updated 3v3",
   "mainpaths":["/"],
   "paths":["/"],
   "files":["SSF2.swf"],
