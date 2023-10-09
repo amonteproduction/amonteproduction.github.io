@@ -1,6 +1,6 @@
 {
   "targetRev":1,
-  "newRev":2,
+  "newRev":3,
   "songbool":true,
   "songlink":"https://amonteproduction.github.io/dailysong.mp3",
   "songid":"Tekken 4 OST - Authentic Sky [drum edit] - youtube/whoamibutwhoareyou",
@@ -9,6 +9,6 @@
   "mainpaths":["/"],
   "paths":["/"],
   "files":["SSF2.swf"],
-  "prevUpdate":"https://amonteproduction.github.io/rev0to2.json",
+  "prevUpdate":"https://amonteproduction.github.io/rev1to3.json",
   "urls":["https://amonteproduction.github.io/rev1/SSF2.swf"]
 }
