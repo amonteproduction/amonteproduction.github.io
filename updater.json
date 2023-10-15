@@ -3,12 +3,13 @@
   "newRev":3,
   "songbool":true,
   "songlink":"https://amonteproduction.github.io/dailysong.mp3",
-  "songid":"Gathers Under Night/CSS - Under Night In-Birth",
+  "songid":"Get A Brian Morans! - Fearofdark",
   "message":"Your game updated. Please restart. This hotfix fixes online mode softlocking issues - Monte",
-  "dailyannouncement":"You are now on the latest build! Let me know if there's any bugs, reach me at @montessf2 on discord!",
+  "dailyannouncement":"SSF2 Tournament this friday 8/15/2023! Go to https://challonge.com/spookymonth for more details, North America only",
   "mainpaths":["/"],
   "paths":["/"],
   "files":["SSF2.swf"],
   "prevUpdate":"https://amonteproduction.github.io/rev1to3.json",
   "urls":["https://amonteproduction.github.io/rev1/SSF2.swf"]
 }
+  
